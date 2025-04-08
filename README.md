@@ -4,6 +4,7 @@ Welcome to my Generative AI project portfolio! This repository showcases three a
 
 ###  Projects Included
 1. 🤖 Multi-Modal Customer Support Agent with Function Calling
+
 An AI-powered customer support agent capable of handling both text and image inputs, performing backend operations via function calling.
 
 🚀 Features:
@@ -15,6 +16,7 @@ An AI-powered customer support agent capable of handling both text and image inp
 OpenAI, LangChain, Python, Gradio, Whisper, Function Calling, TTS, PIL, WhisperX
 
 2. 🧠 AI Knowledge Worker using RAG for Company Expertise
+
 A smart assistant capable of answering any company-related queries by retrieving information from internal documents.
 
 🔍 Features:
@@ -26,6 +28,7 @@ A smart assistant capable of answering any company-related queries by retrieving
 LangChain, OpenAI, ChromaDB, PDFLoader, HuggingFace, Streamlit, Prompt Templates
 
 3. 🔄 Python to Optimized C++ Code Converter using LLMs
+
 A tool that translates Python scripts into highly optimized and idiomatic C++ code using LLMs.
 
 ⚙️ Features:
